@@ -9,6 +9,7 @@ public class MessgeRunner implements CommandLineRunner {
 		System.out.println("welcome to boot app");
 		System.out.println("welcome to boot app");
 		System.out.println("welcome to boot app");
+		System.out.println("Commited from web");
 
 	}
 
